@@ -2,8 +2,11 @@
 Aviation Safety in Canada: Facts and Predictions.
 
 ### Frontend URL: www.cadorsmap.ca
+
 Account name: `cadorsquicksightuser`
+
 Username: `quicksight_reader`
+
 Password: `quicksight@cadorscmpt732`
 
 ## Brief Overview:
