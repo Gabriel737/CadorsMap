@@ -1,10 +1,10 @@
 # CadorsMap.ca
 Aviation Safety in Canada: Facts and Predictions.
 
-## Frontend URL: www.cadorsmap.ca
-### Account name: cadorsquicksightuser
-### Username: quicksight_reader
-### Password: quicksight@cadorscmpt732
+### Frontend URL: www.cadorsmap.ca
+Account name: `cadorsquicksightuser`
+Username: `quicksight_reader`
+Password: `quicksight@cadorscmpt732`
 
 ## Brief Overview:
 * Created a highly interactive visual dashboard to display Canadian aviation incident and accident statistics
