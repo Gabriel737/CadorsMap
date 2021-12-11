@@ -1,9 +1,11 @@
 # CadorsMap.ca
 Aviation Safety in Canada: Facts and Predictions.
 
+![image](https://user-images.githubusercontent.com/52950086/145689258-b98d94d0-2cd3-4b87-bb28-25faf5d83fe7.png)
+
 ## Frontend URL: www.cadorsmap.ca
 
-Account name: `cadorsquicksightuser`
+Account: `cadorsquicksightuser`
 
 Username: `quicksight_reader`
 
@@ -36,12 +38,11 @@ Password: `quicksight@cadorscmpt732`
 
 ## ML Classification Engine: Predicting casualities 
 
-![image](https://user-images.githubusercontent.com/52950086/145689402-c2c4de6b-3a7e-4dbb-b045-40d8c6d1d12a.png)
+![image](https://user-images.githubusercontent.com/52950086/145692821-b6b34f64-f3f3-4d2b-b39e-56f96faadd39.png)
 
 
 **Given the input features of an aviation incident, predicted whether or not fatalities would result with 70% Test Accuracy.**
 
+### Contributors: @kaumil, @gurashish, @arshahuja
 
-## The Final Product
 
-![image](https://user-images.githubusercontent.com/52950086/145689258-b98d94d0-2cd3-4b87-bb28-25faf5d83fe7.png)
