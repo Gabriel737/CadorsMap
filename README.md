@@ -1,7 +1,7 @@
 # CadorsMap.ca
 Aviation Safety in Canada: Facts and Predictions.
 
-### Frontend URL: www.cadorsmap.ca
+## Frontend URL: www.cadorsmap.ca
 
 Account name: `cadorsquicksightuser`
 
@@ -9,7 +9,7 @@ Username: `quicksight_reader`
 
 Password: `quicksight@cadorscmpt732`
 
-## Brief Overview:
+## Brief Overview
 * Created a highly interactive visual dashboard to display Canadian aviation incident and accident statistics
 * Scrapes new records from Transport Canada CADORs website on a weekly basis using serverless cloud technologies
 * Developed an ML Classification Engine which predicted the likelihood of a casualty resulting from an incident with 70% test accuracy.
@@ -19,6 +19,9 @@ Password: `quicksight@cadorscmpt732`
 * Use the two provided scraper applications to perform the initial processing of CADORs records and store the results in an S3 bucket
 * Setup the given scripts in AWS, and connect the components as indicated on the system design graphic.
 * Connect your QuickSight dashboard to Athena and publish it on an available domain.
+
+*More detailed instructions are available in the file* 'RUNNING.txt`
+
 
 ## Technologies Used
 * Python and PySpark
