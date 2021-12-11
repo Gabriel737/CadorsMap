@@ -6,18 +6,18 @@ Aviation Safety in Canada: Facts and Predictions.
 ### Username: quicksight_reader
 ### Password: quicksight@cadorscmpt732
 
-# Brief Overview:
+## Brief Overview:
 * Created a highly interactive visual dashboard to display Canadian aviation incident and accident statistics
 * Scrapes new records from Transport Canada CADORs website on a weekly basis using serverless cloud technologies
 * Developed an ML Classification Engine which predicted the likelihood of a casualty resulting from an incident with 70% test accuracy.
 * Implemented a k-means Clustering algorithm to identify key attributes of CADORs records that resulted in casualties.
 
-# Setup
+## Setup
 * Use the two provided scraper applications to perform the initial processing of CADORs records and store the results in an S3 bucket
 * Setup the given scripts in AWS, and connect the components as indicated on the system design graphic.
 * Connect your QuickSight dashboard to Athena and publish it on an available domain.
 
-# Technologies Used
+## Technologies Used
 * Python
 * Spark
 * Selenium and Beautiful Soup
@@ -34,7 +34,7 @@ Aviation Safety in Canada: Facts and Predictions.
 ![image](https://user-images.githubusercontent.com/52950086/145689402-c2c4de6b-3a7e-4dbb-b045-40d8c6d1d12a.png)
 
 
-## Acheived 70% Test Accuracy with Logistic Regression.
+**Acheived 70% Test Accuracy with Logistic Regression.**
 
 
 # The Final Product:
