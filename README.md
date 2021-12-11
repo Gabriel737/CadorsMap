@@ -20,7 +20,7 @@ Password: `quicksight@cadorscmpt732`
 * Setup the given scripts in AWS, and connect the components as indicated on the system design graphic.
 * Connect your QuickSight dashboard to Athena and publish it on an available domain.
 
-*More detailed instructions are available in the file* 'RUNNING.txt`
+*More detailed instructions are available in the file* `RUNNING.txt`
 
 
 ## Technologies Used
