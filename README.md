@@ -18,18 +18,17 @@ Aviation Safety in Canada: Facts and Predictions.
 * Connect your QuickSight dashboard to Athena and publish it on an available domain.
 
 ## Technologies Used
-* Python
-* Spark
-* Selenium and Beautiful Soup
-* AWS S3, Lambda, SQS, Glue, Athena, and Quicksight
+* Python and PySpark
+* Selenium and Beautiful Soup for scraping
+* AWS S3, Lambda, SQS, Glue, Athena, and Quicksight for Cloud Pipeline
 * Photon, Nominatim, MeteoStat for Geocoding/weather augmentation
 
-# High-level System Design
+## High-level System Design
 
 ![image](https://user-images.githubusercontent.com/52950086/145689353-1ce43015-1e37-40f7-bb9d-1c5b6f31a9fc.png)
 
 
-# ML Classification Engine: Predicting casualities 
+## ML Classification Engine: Predicting casualities 
 
 ![image](https://user-images.githubusercontent.com/52950086/145689402-c2c4de6b-3a7e-4dbb-b045-40d8c6d1d12a.png)
 
@@ -37,6 +36,6 @@ Aviation Safety in Canada: Facts and Predictions.
 **Acheived 70% Test Accuracy with Logistic Regression.**
 
 
-# The Final Product:
+## The Final Product
 
 ![image](https://user-images.githubusercontent.com/52950086/145689258-b98d94d0-2cd3-4b87-bb28-25faf5d83fe7.png)
