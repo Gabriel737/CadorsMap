@@ -39,7 +39,7 @@ Password: `quicksight@cadorscmpt732`
 ![image](https://user-images.githubusercontent.com/52950086/145689402-c2c4de6b-3a7e-4dbb-b045-40d8c6d1d12a.png)
 
 
-**Acheived 70% Test Accuracy with Logistic Regression.**
+**Given the input features of an aviation incident, predicted whether or not fatalities would result with 70% Test Accuracy.**
 
 
 ## The Final Product
