@@ -43,6 +43,6 @@ Password: `quicksight@cadorscmpt732`
 
 **Given the input features of an aviation incident, predicted whether or not fatalities would result with 70% Test Accuracy.**
 
-### Contributors: @kaumil, @gurashish, @arshahuja
+### Contributors: @gabriel737, @kaumil, @gurashish, @arshahuja
 
 
