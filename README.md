@@ -29,7 +29,7 @@ Password: `quicksight@cadorscmpt732`
 * Python and PySpark
 * Selenium and Beautiful Soup for scraping
 * AWS S3, Lambda, SQS, Glue, Athena, and Quicksight for Cloud Pipeline
-* Photon, Nominatim, MeteoStat for Geocoding/weather augmentation
+* Photon, Nominatim, and MeteoStat for Geocoding and Weather Augmentation
 
 ## High-level System Design
 
